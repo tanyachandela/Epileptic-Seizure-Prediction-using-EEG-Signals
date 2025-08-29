@@ -1,5 +1,3 @@
-# Epileptic-Seizure-Prediction-using-EEG-Signals
-
 # 🧠 Epileptic Seizure Detection using EEG (FFT + ML)
 
 ##  Project Overview
